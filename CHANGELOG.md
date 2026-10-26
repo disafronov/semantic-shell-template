@@ -1,3 +1,9 @@
+## [1.0.14](https://github.com/disafronov/semantic-shell-template/compare/v1.0.13...v1.0.14) (2026-10-26)
+
+### Bug Fixes
+
+* keep template releases stable on main ([8f19707](https://github.com/disafronov/semantic-shell-template/commit/8f19707c114ae2c191a98bcce2be83c3c63e2dc8))
+
 ## [1.0.13](https://github.com/disafronov/semantic-shell-template/compare/v1.0.12...v1.0.13) (2026-10-26)
 
 ## [1.0.12](https://github.com/disafronov/semantic-shell-template/compare/v1.0.11...v1.0.12) (2026-10-25)
