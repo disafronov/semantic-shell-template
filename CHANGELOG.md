@@ -1,3 +1,13 @@
+## [1.1.0](https://github.com/disafronov/semantic-shell-template/compare/v1.0.19...v1.1.0) (2026-11-03)
+
+### Features
+
+* add standalone ShellCheck workflow ([3a94b81](https://github.com/disafronov/semantic-shell-template/commit/3a94b81299556a755b6a3b4a1f18aebbf8aeaa5e))
+
+### Code Refactoring
+
+* remove Reviewdog workflow ([f1415dc](https://github.com/disafronov/semantic-shell-template/commit/f1415dc18ac05bb3592264b02c8348dc0d9c07f4))
+
 ## [1.0.19](https://github.com/disafronov/semantic-shell-template/compare/v1.0.18...v1.0.19) (2026-11-03)
 
 ### Code Refactoring
