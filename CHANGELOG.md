@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/disafronov/semantic-shell-template/compare/v1.1.3...v1.1.4) (2026-11-23)
+
+### Code Refactoring
+
+* sync from disafronov/semantic-basic-template v4.0.4 ([efe78e4](https://github.com/disafronov/semantic-shell-template/commit/efe78e42b855aea181e3315c9e2938ff65456b54))
+
 ## [1.1.3](https://github.com/disafronov/semantic-shell-template/compare/v1.1.2...v1.1.3) (2026-11-20)
 
 ### Code Refactoring
